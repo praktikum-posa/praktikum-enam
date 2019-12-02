@@ -1,6 +1,6 @@
 # Pertemuan Enam: Arsip File dan Sistem Kompresi
 
-![Archive and Compress](/home/aufa18/Documents/POSA/Pertemuan Enam/img/archive.png)
+![Archive and Compress](img/archive.png)
 
 ## Outline
 
